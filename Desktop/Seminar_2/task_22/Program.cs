@@ -3,10 +3,11 @@
 // 2 -> 1,4
 
 Console.WriteLine("Ведите число N:");
-int N =Convert.ToInt32(Console.ReadLine());
-int i =1;
-for(i = 1; i <= N; i++)
-{
-        Console.WriteLine(i*i);
-        
-}
+int N = Convert.ToInt32(Console.ReadLine());
+int i = 1;
+   for (i = 1; i <= N; i++)
+   {
+        Console.WriteLine(i * i);
+
+   }
+  

@@ -4,26 +4,25 @@
 // 32679 -> 6
 
 Console.WriteLine("Введите число:");
-int number =Convert.ToInt32(Console.ReadLine());
+int number = Convert.ToInt32(Console.ReadLine());
 int count = number.ToString().Length;
-Console.Write(MakeArray(number,count));
-
-int MakeArray(int a, int b)
-{
-int result = 0;
-    if (b < 3)
-    {
-        Console.Write("Третьей цифры нет");
-    }
-    else
-    {
-        int c = 1;
-        for (int i = b; i > 3; i--)
+    Console.Write(MakeArray(number, count));
+    int MakeArray(int a, int b)
         {
-            c = c * 10;
-        }
+        int result = 0;
+            if (b < 3)
+                {
+                    Console.Write("Третьей цифры нет:");
+                }
+                     else
+                        {
+                            int c = 1;
+                                for (int i = b; i > 3; i--)
+                                    {
+                                        c = c * 10;
+                                    }
 
-        result = (a / c) % 10;
-    }
-return result;
-}
+                            result = a / c % 10;
+                        }
+            return result;
+        }

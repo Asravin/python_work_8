@@ -17,6 +17,6 @@ int ReadInt(string message)
             }
             return sum;
     }    
-        int N = ReadInt("Введите число N :");
-        int result = product_is_numbered(N);
-        Console.WriteLine(result);
+int N = ReadInt("Введите число N :");
+int result = product_is_numbered(N);
+Console.WriteLine(result);

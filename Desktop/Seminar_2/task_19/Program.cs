@@ -8,15 +8,10 @@ bool number = true;
 int x = Convert.ToInt32(Console.ReadLine());
 int c = x.ToString().Length - 1;
 string b = x.ToString();
-
   for (int i = 0; i < c; i++)
-
-    if (b[i] != b[c - i])
+    if(b[i] != b[c - i])
       number = false;
-
-    if (number == true)
-      Console.Write("ДА");
-
-  else Console.Write("НЕТ");
-  
-Console.ReadKey();
+      if (number == true)
+        Console.Write("ДА");
+        else Console.Write("НЕТ");
+          Console.ReadKey();

@@ -4,8 +4,8 @@
 // 918 -> 8
 
 Console.WriteLine("Введите трехзначное число:");
-int number = Convert.ToInt32(Console.ReadLine());
-int count = number.ToString().Length;
-int a = number % 10;
-int b = a % 10;
+    int number = Convert.ToInt32(Console.ReadLine());
+    int count = number.ToString().Length;
+        int a = number % 10;
+            int b = a % 10;
 Console.WriteLine(b);

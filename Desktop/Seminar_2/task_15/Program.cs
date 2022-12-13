@@ -5,16 +5,15 @@
 
 Console.WriteLine("Введите цифру от 1 до 7:");
 int number = Convert.ToInt32(Console.ReadLine());
-if (number >0 && number <6 )
-{
-    Console.WriteLine("НЕТ:");
-}
-if (number >=6 && number <=7 )
-{
-    Console.WriteLine("ДА:");
-}
-if (number <= 0 && number >=8)
-{
-    Console.WriteLine("Такого дня нет:");
-}
-    
+    if (number > 0 && number < 6)
+        {
+            Console.WriteLine("НЕТ:");
+        }
+        if (number >= 6 && number <= 7)
+            {
+                Console.WriteLine("ДА:");
+            }
+            if (number <= 0 && number >= 8)
+                {
+                    Console.WriteLine("Такого дня нет:");
+                }

@@ -3,31 +3,28 @@
 
 Console.WriteLine("Ведите координаты точки по X :");
 int x = Convert.ToInt32(Console.ReadLine());
+    Console.WriteLine("Ведите координаты точки по Y :");
+    int y = Convert.ToInt32(Console.ReadLine());
+        if (x > 0 && y > 0)
+        {
+            Console.WriteLine(" Точка находится в первой координатной четверти");
+        }
+            else if (x < 0 && y > 0)
+            {
+                Console.WriteLine(" Точка находится в второй координатной четверти");
+            }
 
-Console.WriteLine("Ведите координаты точки по Y :");
-int y = Convert.ToInt32(Console.ReadLine());
+                else if (x < 0 && y < 0)
+                {
+                    Console.WriteLine(" Точка находится в третьей координатной четверти");
+                }
 
-if(x > 0 && y > 0)
-{
-    Console.WriteLine(" Точка находится в первой координатной четверти");
-}
+                    else if (x > 0 && y < 0)
+                    {
+                        Console.WriteLine(" Точка находится в четвертой координатной четверти");
+                    }
 
-else if(x < 0 && y > 0)
-{
-    Console.WriteLine(" Точка находится в второй координатной четверти");
-}
-
-else if(x < 0 && y < 0)
-{
-    Console.WriteLine(" Точка находится в третьей координатной четверти");
-}
-
-else if(x > 0 && y < 0)
-{
-    Console.WriteLine(" Точка находится в четвертой координатной четверти");
-}
-
-else 
-{
-    Console.WriteLine(" Невозможно определить координатную четверть");
-}
+                        else
+                        {
+                            Console.WriteLine(" Невозможно определить координатную четверть");
+                        }
