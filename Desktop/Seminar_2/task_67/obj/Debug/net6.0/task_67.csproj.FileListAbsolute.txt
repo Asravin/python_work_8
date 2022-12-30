@@ -1,0 +1,15 @@
+C:\Users\AsRavin\Desktop\Seminar_2\task_67\bin\Debug\net6.0\task_67.exe
+C:\Users\AsRavin\Desktop\Seminar_2\task_67\bin\Debug\net6.0\task_67.deps.json
+C:\Users\AsRavin\Desktop\Seminar_2\task_67\bin\Debug\net6.0\task_67.runtimeconfig.json
+C:\Users\AsRavin\Desktop\Seminar_2\task_67\bin\Debug\net6.0\task_67.dll
+C:\Users\AsRavin\Desktop\Seminar_2\task_67\bin\Debug\net6.0\task_67.pdb
+C:\Users\AsRavin\Desktop\Seminar_2\task_67\obj\Debug\net6.0\task_67.csproj.AssemblyReference.cache
+C:\Users\AsRavin\Desktop\Seminar_2\task_67\obj\Debug\net6.0\task_67.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AsRavin\Desktop\Seminar_2\task_67\obj\Debug\net6.0\task_67.AssemblyInfoInputs.cache
+C:\Users\AsRavin\Desktop\Seminar_2\task_67\obj\Debug\net6.0\task_67.AssemblyInfo.cs
+C:\Users\AsRavin\Desktop\Seminar_2\task_67\obj\Debug\net6.0\task_67.csproj.CoreCompileInputs.cache
+C:\Users\AsRavin\Desktop\Seminar_2\task_67\obj\Debug\net6.0\task_67.dll
+C:\Users\AsRavin\Desktop\Seminar_2\task_67\obj\Debug\net6.0\refint\task_67.dll
+C:\Users\AsRavin\Desktop\Seminar_2\task_67\obj\Debug\net6.0\task_67.pdb
+C:\Users\AsRavin\Desktop\Seminar_2\task_67\obj\Debug\net6.0\task_67.genruntimeconfig.cache
+C:\Users\AsRavin\Desktop\Seminar_2\task_67\obj\Debug\net6.0\ref\task_67.dll
