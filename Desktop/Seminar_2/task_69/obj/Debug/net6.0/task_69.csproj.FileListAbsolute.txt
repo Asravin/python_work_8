@@ -1,0 +1,15 @@
+C:\Users\AsRavin\Desktop\Seminar_2\task_69\bin\Debug\net6.0\task_69.exe
+C:\Users\AsRavin\Desktop\Seminar_2\task_69\bin\Debug\net6.0\task_69.deps.json
+C:\Users\AsRavin\Desktop\Seminar_2\task_69\bin\Debug\net6.0\task_69.runtimeconfig.json
+C:\Users\AsRavin\Desktop\Seminar_2\task_69\bin\Debug\net6.0\task_69.dll
+C:\Users\AsRavin\Desktop\Seminar_2\task_69\bin\Debug\net6.0\task_69.pdb
+C:\Users\AsRavin\Desktop\Seminar_2\task_69\obj\Debug\net6.0\task_69.csproj.AssemblyReference.cache
+C:\Users\AsRavin\Desktop\Seminar_2\task_69\obj\Debug\net6.0\task_69.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AsRavin\Desktop\Seminar_2\task_69\obj\Debug\net6.0\task_69.AssemblyInfoInputs.cache
+C:\Users\AsRavin\Desktop\Seminar_2\task_69\obj\Debug\net6.0\task_69.AssemblyInfo.cs
+C:\Users\AsRavin\Desktop\Seminar_2\task_69\obj\Debug\net6.0\task_69.csproj.CoreCompileInputs.cache
+C:\Users\AsRavin\Desktop\Seminar_2\task_69\obj\Debug\net6.0\task_69.dll
+C:\Users\AsRavin\Desktop\Seminar_2\task_69\obj\Debug\net6.0\refint\task_69.dll
+C:\Users\AsRavin\Desktop\Seminar_2\task_69\obj\Debug\net6.0\task_69.pdb
+C:\Users\AsRavin\Desktop\Seminar_2\task_69\obj\Debug\net6.0\task_69.genruntimeconfig.cache
+C:\Users\AsRavin\Desktop\Seminar_2\task_69\obj\Debug\net6.0\ref\task_69.dll
