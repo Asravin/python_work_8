@@ -11,7 +11,9 @@
 # Деревья шумели
 # Тучи разошлись
 # Листва зеленела
-
+# Требуется реализовать функцию longest_words(file), 
+# которая записывает в файл result.txt слово, 
+# имеющее максимальную длину (или список слов, если таковых несколько).
 
 
 def read_last(lines, file):
@@ -23,4 +25,14 @@ def read_last(lines, file):
 str = int(input("Введите количество строк: "))
 read_last(str, 'article.tht')
 
+print()
 
+def longest_words(file):
+    with open(file, "r",encoding="utf-8") as text:
+        str = text.read().split()
+        length = len(max(str, key = len))
+        request = [i for i in str if len(i) == length]
+        if len(request) == 1:
+            return request[0]
+        return request
+print("Слово с максимальной длиной: " + longest_words('article.tht'))
